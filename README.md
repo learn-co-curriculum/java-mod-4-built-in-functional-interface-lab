@@ -3,7 +3,7 @@
 ## Instruction
 
 The starter code relies on user defined functional interfaces.  
-Evolve the code to use Java's functional interfaces from package [java.util.function](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html).
+Evolve the code to use Java's functional interfaces from package [java.util.function](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html).
 
 ### Task1
 
@@ -25,7 +25,7 @@ public class Task1 {
 }
 ```
 
-- Update the variable declaration `MyInterface1 startsWithDigit` to use an equivalent interface from [java.util.function](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html).
+- Update the variable declaration `MyInterface1 startsWithDigit` to use an equivalent interface from [java.util.function](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html).
   - Hint: The interface takes a string as a parameter and returns a boolean.
 - Delete the file `MyInterface1.java`.
 
@@ -47,7 +47,7 @@ public class Task2 {
 }
 ```
 
-- Update the variable declaration `MyInterface2 exclaim` to use an equivalent interface from [java.util.function](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html).
+- Update the variable declaration `MyInterface2 exclaim` to use an equivalent interface from [java.util.function](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html).
 - Delete the file `MyInterface2.java`.
 
 ### Task3
@@ -68,7 +68,7 @@ public class Task3 {
 }
 ```
 
-- Update the variable declaration `MyInterface3 question` to use an equivalent interface from [java.util.function](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html).
+- Update the variable declaration `MyInterface3 question` to use an equivalent interface from [java.util.function](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html).
 - Delete the file `MyInterface3.java`.
 
 
@@ -83,8 +83,8 @@ public class Task4 {
 }
 ```
 
-Edit the main method to add the assignment and print statements shown above.
-- Update  `????? hypotenuse` to replace  ?????  with a functional interface from [java.util.function](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html).
-  - HINT: What is the data type of argument values 3.5 and 4.2.  What data type does Math.sqrt return?
+- Edit the main method to add the assignment and print statements shown above.
+- Update  `????? hypotenuse` to replace  ?????  with a functional interface from [java.util.function](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/package-summary.html).
+  - HINT: What is the data type of argument values 3.5 and 4.2?  What data type does Math.sqrt return?
 - Update the print statement to replace ????? with the appropriate method for the functional interface.
 
